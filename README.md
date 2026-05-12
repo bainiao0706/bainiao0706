@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="[https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWYxdGI5M29tbG42eHd4aG1uemZ3bnk0Y3g1OWFqdWxmd3FxYWR5ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gXXFrjHFJIMoqKr8UT/giphy.gif)" width="200" />
+<img src="[https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif]" width="200" />
 
 # 🌸 Hello,I am bainiao0706! 🌸
 
