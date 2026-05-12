@@ -1,48 +1,45 @@
 <div align="center">
 
-<!-- 前辈指定的新动图，宽度拉满当做顶部背景 -->
+<!-- 前辈指定的顶部背景动图 -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWYxdGI5M29tbG42eHd4aG1uemZ3bnk0Y3g1OWFqdWxmd3FxYWR5ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gXXFrjHFJIMoqKr8UT/giphy.gif" width="100%" />
 
 <br><br>
 
-<!-- 前辈的搞钱宣言... -->
-<h1> 💰💸✨ I want to make a TON of money! ✨💸💰 </h1>
-
-<br>
-
-<!-- 动态彩虹分割线 -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- 高级的动态打字机特效，包含前辈的名字和搞钱宣言... -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Hello,+I'm+Camellia!+%E2%9C%A8;I+want+to+make+a+TON+of+money!+%F0%9F%92%B0;Future+Billionaire+in+Progress...;Welcome+to+my+Github+Profile!+%F0%9F%8C%B8" alt="Typing SVG" />
+</a>
 
 <br><br>
 
-<!-- 花里胡哨的徽章填补画面 -->
+### 🛠️ Tech Stack & Tools
+<!-- 技能图标墙，放了些你可能用得上的... -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Billionaire%20in%20Progress-FFD700?style=for-the-badge&logo=cashapp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Future%20Rich%20Person-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,py,android,apple,linux,github,vscode&perline=10" />
+  </a>
 </p>
 
 <br>
 
-<!-- 动态的GitHub数据统计卡片，让页面看起来很满 -->
+### 📊 GitHub Stats
+<!-- 黑夜主题的高级数据卡片，去掉了边框显得更清爽... -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bainiao0706&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bainiao0706&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bainiao0706&show_icons=true&theme=tokyonight&hide_border=true&title_color=FFD700&icon_color=FFD700" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bainiao0706&theme=tokyonight&hide_border=true&title_color=FFD700" width="48%" />
+</p>
+
+### 🏆 Top Languages
+<!-- 语言使用比例图... -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bainiao0706&layout=compact&theme=tokyonight&hide_border=true&title_color=FFD700" width="48%" />
 </p>
 
 <br>
 
-<!-- 撒钱的动图装饰... -->
-<img src="https://media.giphy.com/media/l0Ex6kAKAoFRsFh6M/giphy.gif" width="150" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/3o6gDWzmAzrpi5DQU8/giphy.gif" width="150" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- 访客统计也换成了金色... -->
+<!-- 底部访客统计 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bainiao0706&label=Profile%20views&color=FFD700&style=flat" alt="bainiao0706" />
+  <img src="https://komarev.com/ghpvc/?username=bainiao0706&label=Profile%20views&color=FFD700&style=for-the-badge" alt="bainiao0706" />
 </p>
 
 </div>
