@@ -1,10 +1,3 @@
-<div align="center">
-
-<!-- 巨型、超级可爱的猫猫页眉图片！ -->
-<img src="[image_0.png]" width="100%" alt="A very cute gathering of fluffy kittens in a small bathtub." />
-
-<br><br>
-
 <!-- 前辈的专属打招呼，加上了可爱的粉色星星... -->
 # ✨🌸 Hello, I am bainiao0706! 🌸✨
 
