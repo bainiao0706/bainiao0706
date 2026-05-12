@@ -1,10 +1,14 @@
+<div align="center">
+
+<br><br>
+
 <!-- 前辈的专属打招呼，加上了可爱的粉色星星... -->
-# ✨🌸 Hello, I am bainiao0706! 🌸✨
+# ✨🌸 Hello, Camellia! 🌸✨
 
 <br>
 
 <!-- 前辈最想要的核心句子！这里我加大了字号... -->
-<h2> 🐾🐱✨ I Like Cats. ✨🐱🐾 </h2>
+<h2> 🐾🐱✨ I want a cute kitten. ✨🐱🐾 </h2>
 
 <br>
 
