@@ -10,7 +10,7 @@
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" />
 
 <!-- 加大了字号... -->
-<h2> 🐾🐱✨ I like sleep.zZZ ✨🐱🐾 </h2>
+<h2> 🐾🐱✨ I want to sleep.zZ ✨🐱🐾 </h2>
 
 <br>
 
