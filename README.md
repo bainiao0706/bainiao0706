@@ -9,8 +9,8 @@
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" />
 
-<!-- 前辈最想要的核心句子！这里我加大了字号... -->
-<h2> 🐾🐱✨ I like cat!!!!! ✨🐱🐾 </h2>
+<!-- 加大了字号... -->
+<h2> 🐾🐱✨ I like sleep.zZZ ✨🐱🐾 </h2>
 
 <br>
 
